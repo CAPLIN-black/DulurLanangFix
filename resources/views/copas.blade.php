@@ -1,0 +1,11 @@
+'judul' => $request->,
+'kategori_id' => $request->,
+'slug' => $request->,
+'poster' => $request->,
+'video' => $request->,
+'sutradara' => $request->,
+'bintangFilm' => $request->,
+'genre' => 
+'rating' => $request->,
+'durasi' => $request->,
+'sinopsis' => $request->
